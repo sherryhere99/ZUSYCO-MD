@@ -1,12 +1,12 @@
 {
-    "name": "ZUSYCO-MD",
-    "description": "This is an ZUSYCO-MD whatsapp bot created by mr nima.",
+    "name": "SHERRY-X",
+    "description": "This is an ZUSYCO-MD whatsapp bot created by mr SHERRY-X.",
     "repository": "https://github.com/DarkMakerofc/ZUSYCO-MD",
     "logo": "https://telegra.ph/file/a3cb3587e86dd31a0bc3d.jpg",
     "keywords": [
         "nodejs",
         "Bot",
-        "WhatsApp ZUSYCO-MD Bot"
+        "WhatsApp SHERRY-MD Bot"
     ],
     "buildpacks": [
         {
